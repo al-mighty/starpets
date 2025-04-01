@@ -1,0 +1,8 @@
+* text=auto eol=lf
+*.{cmd,[cC][mM][dD]} text eol=crlf
+*.{bat,[bB][aA][tT]} text eol=crlf
+*.{exe,dll,sys,com} binary
+*.{png,jpg,jpeg,gif,ico,webp} binary
+*.{woff,woff2,ttf,otf,eot} binary
+*.{pdf,doc,docx,xls,xlsx,ppt,pptx} binary
+*.{zip,rar,7z,tar,gz} binary 
